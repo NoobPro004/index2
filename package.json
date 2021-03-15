@@ -1,0 +1,23 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mkdir.js",
+  "scripts": {
+    "Start": "node MKdir.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "nmkdir": "MKdir.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoobPro004/index2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoobPro004/index2/issues"
+  },
+  "homepage": "https://github.com/NoobPro004/index2#readme"
+}
